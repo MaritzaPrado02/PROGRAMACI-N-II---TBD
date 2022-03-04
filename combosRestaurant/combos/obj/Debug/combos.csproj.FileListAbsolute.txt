@@ -1,0 +1,13 @@
+C:\Users\marit\source\repos\combosRestaurant\combos\bin\Debug\combos.exe.config
+C:\Users\marit\source\repos\combosRestaurant\combos\bin\Debug\combos.exe
+C:\Users\marit\source\repos\combosRestaurant\combos\bin\Debug\combos.pdb
+C:\Users\marit\source\repos\combosRestaurant\combos\obj\Debug\combos.csprojAssemblyReference.cache
+C:\Users\marit\source\repos\combosRestaurant\combos\obj\Debug\combos.Properties.Resources.resources
+C:\Users\marit\source\repos\combosRestaurant\combos\obj\Debug\combos.csproj.GenerateResource.cache
+C:\Users\marit\source\repos\combosRestaurant\combos\obj\Debug\combos.csproj.CoreCompileInputs.cache
+C:\Users\marit\source\repos\combosRestaurant\combos\obj\Debug\combos.exe
+C:\Users\marit\source\repos\combosRestaurant\combos\obj\Debug\combos.pdb
+C:\Users\marit\source\repos\combosRestaurant\combos\obj\Debug\combos.frmCine.resources
+C:\Users\marit\source\repos\combosRestaurant\combos\bin\Debug\BibliotecaDeClases.dll
+C:\Users\marit\source\repos\combosRestaurant\combos\bin\Debug\BibliotecaDeClases.pdb
+C:\Users\marit\source\repos\combosRestaurant\combos\obj\Debug\combos.csproj.CopyComplete

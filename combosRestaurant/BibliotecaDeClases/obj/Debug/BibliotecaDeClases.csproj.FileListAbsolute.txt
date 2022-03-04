@@ -1,0 +1,6 @@
+C:\Users\marit\source\repos\combosRestaurant\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.dll
+C:\Users\marit\source\repos\combosRestaurant\BibliotecaDeClases\bin\Debug\BibliotecaDeClases.pdb
+C:\Users\marit\source\repos\combosRestaurant\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.csproj.CoreCompileInputs.cache
+C:\Users\marit\source\repos\combosRestaurant\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.dll
+C:\Users\marit\source\repos\combosRestaurant\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.pdb
+C:\Users\marit\source\repos\combosRestaurant\BibliotecaDeClases\obj\Debug\BibliotecaDeClases.csprojAssemblyReference.cache
